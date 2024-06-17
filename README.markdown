@@ -12,7 +12,7 @@ also trigger actions (such as rebuilding assets) when matching files change.
 ## Documentation
 
 
-//Docs
+//Docs on Pages
 
 Head on over to https://facebook.github.io/watchman/
 
